@@ -1,0 +1,42 @@
+		tr
+		{
+			background-color:#D6DBDF;
+		}
+		div.text-container 
+		{
+			margin: 0 auto;
+			width: 75%;    
+		}
+
+		.hideContent 
+		{
+			overflow: hidden;
+			line-height: 1em;
+			height: 2em;
+		}
+
+		.showContent 
+		{
+			line-height: 1em;
+			height: auto;
+		}
+
+		.showContent
+		{
+			height: auto;
+		}
+
+		p 
+		{
+			padding: 10px 0;
+		}
+		.show-more 
+		{
+			padding: 10px 0;
+			text-align: center;
+		}
+
+		#aus
+		{
+			font-family: Times New Roman;
+		}
